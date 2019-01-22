@@ -5,7 +5,7 @@ MiniProject 목록
 </a>
 <br>
 <a href="https://github.com/simjunbo/ELK">
-- ELK 
+- ELK 구축
 </a>
 
 
