@@ -15,6 +15,9 @@
 <a href="https://github.com/simjunbo/spring4_mvc_skeleton">
 - Spring4 MVC Skeleton
 </a>
+<a href="https://github.com/simjunbo/spring_jpa_skeleton">
+- Spring4 JPA Skeleton
+</a>
 
 
 
